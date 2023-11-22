@@ -14,5 +14,9 @@ Apartado de editar
 Apartado de borrar
 ![image](https://github.com/SUPaezRivas/subir-es-este/assets/143548332/8c9e5069-0927-40bf-a893-f1820c58a0f9)
 
+Apartado de guardar
+![image](https://github.com/SUPaezRivas/subir-es-este/assets/143548332/374037de-f968-4ae2-b94b-cd03c3b1e48e)
+
+
 
 
